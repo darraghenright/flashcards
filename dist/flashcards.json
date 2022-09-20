@@ -1,14 +1,58 @@
 [
   {
     "en": "the cat",
-    "fr": "la chatte"
-  },
-  {
-    "en": "the cat",
     "fr": "le chat"
   },
   {
     "en": "the dog",
     "fr": "le chien"
+  },
+  {
+    "en": "the girl",
+    "fr": "la fille"
+  },
+  {
+    "en": "the boy",
+    "fr": "le garçon"
+  },
+  {
+    "en": "the animal",
+    "fr": "l'animal"
+  },
+  {
+    "en": "the hotel",
+    "fr": "l'hôtel"
+  },
+  {
+    "en": "the hospital",
+    "fr": "l'hôpital"
+  },
+  {
+    "en": "an apple",
+    "fr": "une pomme"
+  },
+  {
+    "en": "pretty",
+    "fr": "jolie"
+  },
+  {
+    "en": "shy",
+    "fr": "timide"
+  },
+  {
+    "en": "a bird",
+    "fr": "un oiseau"
+  },
+  {
+    "en": "a bed",
+    "fr": "un lit"
+  },
+  {
+    "en": "a chair",
+    "fr": "une chaise"
+  },
+  {
+    "en": "a car",
+    "fr": "une voiture"
   }
 ]
