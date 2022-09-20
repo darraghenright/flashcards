@@ -1,4 +1,4 @@
-<script ts>
+<script>
 import { defineComponent } from "vue";
 
 export default defineComponent({
@@ -10,7 +10,7 @@ export default defineComponent({
   },
   data() {
     return {
-      answer: null,
+      answer: "",
       cards: [],
       lang: "fr",
       question: null,

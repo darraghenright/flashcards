@@ -2,4 +2,5 @@
 
 push:
 	elixir flashcards.exs
-	git push
+	npm run build
+	git add dist -f
