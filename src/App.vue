@@ -3,7 +3,7 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   created() {
-    fetch("/flashcards.json")
+    fetch("flashcards.json")
       .then((response) => response.json())
       .then((cards) => (this.cards = cards))
       .then(() => this.pickQuestion());
