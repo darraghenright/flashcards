@@ -33,7 +33,7 @@ export default defineComponent({
     showAnswer() {
       this.answer = this.question[this.answerLang];
       this.score.no += 1;
-      setTimeout(() => this.pickCard(), 1_500);
+      setTimeout(() => this.pickCard(), 2_000);
     },
     pickCard() {
       this.answer = "";
