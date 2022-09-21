@@ -36,208 +36,276 @@
     "fr": "après"
   },
   {
-    "en": "afternoon",
-    "fr": "l'après-midi"
-  },
-  {
     "en": "an apple",
     "fr": "une pomme"
-  },
-  {
-    "en": "animal",
-    "fr": "l'animal"
   },
   {
     "en": "before",
     "fr": "avant"
   },
   {
-    "en": "boy",
-    "fr": "le garçon"
-  },
-  {
-    "en": "cat",
-    "fr": "le chat"
-  },
-  {
-    "en": "dog",
-    "fr": "le chien"
-  },
-  {
-    "en": "evening",
-    "fr": "le soir"
-  },
-  {
-    "en": "father",
-    "fr": "le père"
-  },
-  {
-    "en": "girl",
-    "fr": "la fille"
-  },
-  {
-    "en": "hospital",
-    "fr": "l'hôpital"
-  },
-  {
-    "en": "hotel",
-    "fr": "l'hôtel"
-  },
-  {
-    "en": "hour",
-    "fr": "l'heure"
-  },
-  {
-    "en": "husband",
-    "fr": "le mari"
-  },
-  {
-    "en": "ice",
-    "fr": "le glaçon"
-  },
-  {
-    "en": "jacket",
-    "fr": "la veste"
-  },
-  {
-    "en": "kitchen",
-    "fr": "la cuisine"
-  },
-  {
-    "en": "leg",
-    "fr": "la jambe"
-  },
-  {
-    "en": "man",
-    "fr": "l'homme"
-  },
-  {
-    "en": "manager",
-    "fr": "le gérant"
-  },
-  {
-    "en": "midday",
-    "fr": "le midi"
-  },
-  {
-    "en": "minute",
-    "fr": "la minute"
-  },
-  {
-    "en": "morning",
-    "fr": "le matin"
-  },
-  {
-    "en": "mother",
-    "fr": "la mère"
-  },
-  {
-    "en": "motorcycle",
-    "fr": "la moto"
-  },
-  {
-    "en": "night",
-    "fr": "la nuit"
-  },
-  {
-    "en": "nurse",
-    "fr": "l'infirmière"
-  },
-  {
-    "en": "pants",
-    "fr": "le pantelon"
-  },
-  {
-    "en": "pencil",
-    "fr": "le crayon"
-  },
-  {
-    "en": "plate",
-    "fr": "l'assiette"
-  },
-  {
-    "en": "police",
-    "fr": "le policier"
+    "en": "goodnight",
+    "fr": "bonne nuit"
   },
   {
     "en": "pretty",
     "fr": "jolie"
   },
   {
-    "en": "programmer",
-    "fr": "le programeur"
+    "en": "salut",
+    "fr": "hello"
   },
   {
-    "en": "rain",
-    "fr": "la pluie"
+    "en": "see you",
+    "fr": "à plus"
   },
   {
-    "en": "salesperson",
-    "fr": "le vendeur"
-  },
-  {
-    "en": "salt",
-    "fr": "le sel"
-  },
-  {
-    "en": "second",
-    "fr": "la seconde"
-  },
-  {
-    "en": "shirt",
-    "fr": "la chemise"
-  },
-  {
-    "en": "shoe",
-    "fr": "la chaussure"
+    "en": "see you soon",
+    "fr": "à bientôt"
   },
   {
     "en": "shy",
     "fr": "timide"
   },
   {
-    "en": "snow",
+    "en": "the afternoon",
+    "fr": "l'après-midi"
+  },
+  {
+    "en": "the animal",
+    "fr": "l'animal"
+  },
+  {
+    "en": "the aunt",
+    "fr": "la tante"
+  },
+  {
+    "en": "the boy",
+    "fr": "le garçon"
+  },
+  {
+    "en": "the cat",
+    "fr": "le chat"
+  },
+  {
+    "en": "the dog",
+    "fr": "le chien"
+  },
+  {
+    "en": "the evening",
+    "fr": "le soir"
+  },
+  {
+    "en": "the family",
+    "fr": "la famille"
+  },
+  {
+    "en": "the father",
+    "fr": "le père"
+  },
+  {
+    "en": "the girl",
+    "fr": "la fille"
+  },
+  {
+    "en": "the grandfather",
+    "fr": "le grand-père"
+  },
+  {
+    "en": "the grandmother",
+    "fr": "la grand-mère"
+  },
+  {
+    "en": "the hospital",
+    "fr": "l'hôpital"
+  },
+  {
+    "en": "the hotel",
+    "fr": "l'hôtel"
+  },
+  {
+    "en": "the hour",
+    "fr": "l'heure"
+  },
+  {
+    "en": "the husband",
+    "fr": "le mari"
+  },
+  {
+    "en": "the ice",
+    "fr": "le glaçon"
+  },
+  {
+    "en": "the jacket",
+    "fr": "la veste"
+  },
+  {
+    "en": "the kitchen",
+    "fr": "la cuisine"
+  },
+  {
+    "en": "the leg",
+    "fr": "la jambe"
+  },
+  {
+    "en": "the man",
+    "fr": "l'homme"
+  },
+  {
+    "en": "the manager",
+    "fr": "le gérant"
+  },
+  {
+    "en": "the midday",
+    "fr": "le midi"
+  },
+  {
+    "en": "the minute",
+    "fr": "la minute"
+  },
+  {
+    "en": "the morning",
+    "fr": "le matin"
+  },
+  {
+    "en": "the mother",
+    "fr": "la mère"
+  },
+  {
+    "en": "the motorcycle",
+    "fr": "la moto"
+  },
+  {
+    "en": "the night",
+    "fr": "la nuit"
+  },
+  {
+    "en": "the nurse",
+    "fr": "l'infirmière"
+  },
+  {
+    "en": "the pants",
+    "fr": "le pantelon"
+  },
+  {
+    "en": "the pencil",
+    "fr": "le crayon"
+  },
+  {
+    "en": "the plate",
+    "fr": "l'assiette"
+  },
+  {
+    "en": "the police",
+    "fr": "le policier"
+  },
+  {
+    "en": "the programmer",
+    "fr": "le programeur"
+  },
+  {
+    "en": "the rain",
+    "fr": "la pluie"
+  },
+  {
+    "en": "the salesperson",
+    "fr": "le vendeur"
+  },
+  {
+    "en": "the salt",
+    "fr": "le sel"
+  },
+  {
+    "en": "the second",
+    "fr": "la seconde"
+  },
+  {
+    "en": "the shirt",
+    "fr": "la chemise"
+  },
+  {
+    "en": "the shoe",
+    "fr": "la chaussure"
+  },
+  {
+    "en": "the snow",
     "fr": "la neige"
   },
   {
-    "en": "sock",
+    "en": "the sock",
     "fr": "le chaussette"
   },
   {
-    "en": "sofa",
+    "en": "the sofa",
     "fr": "le canapé"
   },
   {
-    "en": "son",
+    "en": "the son",
     "fr": "le fils"
   },
   {
-    "en": "stomach",
+    "en": "the stomach",
     "fr": "l'estomac"
   },
   {
-    "en": "store",
+    "en": "the store",
     "fr": "le magasin"
   },
   {
-    "en": "sugar",
+    "en": "the sugar",
     "fr": "le sucre"
   },
   {
-    "en": "sun",
+    "en": "the sun",
     "fr": "le soleil"
   },
   {
-    "en": "tea",
+    "en": "the tea",
     "fr": "le thé"
   },
   {
-    "en": "teacher",
+    "en": "the teacher",
     "fr": "le professeur"
   },
   {
-    "en": "television",
+    "en": "the television",
     "fr": "la télévision"
+  },
+  {
+    "en": "the train",
+    "fr": "le train"
+  },
+  {
+    "en": "the uncle",
+    "fr": "l'oncle"
+  },
+  {
+    "en": "the vegetable",
+    "fr": "la légume"
+  },
+  {
+    "en": "the water",
+    "fr": "l'eau"
+  },
+  {
+    "en": "the week",
+    "fr": "la semaine"
+  },
+  {
+    "en": "the wife",
+    "fr": "l'épouse"
+  },
+  {
+    "en": "the wine",
+    "fr": "le vin"
+  },
+  {
+    "en": "the woman",
+    "fr": "la femme"
+  },
+  {
+    "en": "the year",
+    "fr": "l'année"
   },
   {
     "en": "today",
@@ -246,38 +314,6 @@
   {
     "en": "tomorrow",
     "fr": "demain"
-  },
-  {
-    "en": "train",
-    "fr": "le train"
-  },
-  {
-    "en": "vegetable",
-    "fr": "la légume"
-  },
-  {
-    "en": "water",
-    "fr": "l'eau"
-  },
-  {
-    "en": "week",
-    "fr": "la semaine"
-  },
-  {
-    "en": "wife",
-    "fr": "l'épouse"
-  },
-  {
-    "en": "wine",
-    "fr": "le vin"
-  },
-  {
-    "en": "woman",
-    "fr": "la femme"
-  },
-  {
-    "en": "year",
-    "fr": "l'année"
   },
   {
     "en": "yesterday",
