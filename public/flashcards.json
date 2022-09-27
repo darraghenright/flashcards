@@ -32,40 +32,16 @@
     "fr": "une soeur"
   },
   {
-    "en": "after",
-    "fr": "après"
-  },
-  {
     "en": "an apple",
     "fr": "une pomme"
   },
   {
-    "en": "before",
-    "fr": "avant"
+    "en": "first name",
+    "fr": "prénom"
   },
   {
-    "en": "goodnight",
-    "fr": "bonne nuit"
-  },
-  {
-    "en": "pretty",
-    "fr": "jolie"
-  },
-  {
-    "en": "salut",
-    "fr": "hello"
-  },
-  {
-    "en": "see you",
-    "fr": "à plus"
-  },
-  {
-    "en": "see you soon",
-    "fr": "à bientôt"
-  },
-  {
-    "en": "shy",
-    "fr": "timide"
+    "en": "second name",
+    "fr": "nom de famille"
   },
   {
     "en": "the afternoon",
@@ -174,6 +150,10 @@
   {
     "en": "the motorcycle",
     "fr": "la moto"
+  },
+  {
+    "en": "the nationality",
+    "fr": "la nationalité"
   },
   {
     "en": "the night",
@@ -308,6 +288,150 @@
     "fr": "l'année"
   },
   {
+    "en": "to have",
+    "fr": "avoir"
+  },
+  {
+    "en": "I have",
+    "fr": "j'ai"
+  },
+  {
+    "en": "you have (p/f)",
+    "fr": "tu as"
+  },
+  {
+    "en": "he has",
+    "fr": "il a"
+  },
+  {
+    "en": "she has",
+    "fr": "elle a"
+  },
+  {
+    "en": "we have",
+    "fr": "nous avons"
+  },
+  {
+    "en": "you have",
+    "fr": "vous avez"
+  },
+  {
+    "en": "they have (m)",
+    "fr": "ils ont"
+  },
+  {
+    "en": "they have (f)",
+    "fr": "elles ont"
+  },
+  {
+    "en": "I do not have",
+    "fr": "j'ai"
+  },
+  {
+    "en": "you do not have (p/f)",
+    "fr": "tu n'as pas"
+  },
+  {
+    "en": "he do not has",
+    "fr": "il n'a pas"
+  },
+  {
+    "en": "she do not has",
+    "fr": "elle n'a pas"
+  },
+  {
+    "en": "we do not have",
+    "fr": "nous n'avons pas"
+  },
+  {
+    "en": "you do not have",
+    "fr": "vous n'avez pas"
+  },
+  {
+    "en": "they do not have (m)",
+    "fr": "ils n'ont pas"
+  },
+  {
+    "en": "they do not have (f)",
+    "fr": "elles n'ont pas"
+  },
+  {
+    "en": "what is your name?",
+    "fr": "comment tu t'appelles?"
+  },
+  {
+    "en": "what is your name? (formal)",
+    "fr": "comment vous vous appellez?"
+  },
+  {
+    "en": "what is your nationality?",
+    "fr": "quelle est tu nationalité?"
+  },
+  {
+    "en": "what age are you?",
+    "fr": "quel âge a tu?"
+  },
+  {
+    "en": "where do you live?",
+    "fr": "tu habites òu?"
+  },
+  {
+    "en": "where do you live? (formal)",
+    "fr": "vous habitez òu?"
+  },
+  {
+    "en": "I listen to music",
+    "fr": "j'écoute de la musique"
+  },
+  {
+    "en": "I come from atlanta",
+    "fr": "Je viens d'atlanta"
+  },
+  {
+    "en": "there is a black dog and a black mouse",
+    "fr": "Il y a un chien noir et une souris noire"
+  },
+  {
+    "en": "do you have a sister?",
+    "fr": "avez-vous une sœur?"
+  },
+  {
+    "en": "Your name is Thomas.",
+    "fr": "tu t'appelles Thomas"
+  },
+  {
+    "en": "after",
+    "fr": "après"
+  },
+  {
+    "en": "before",
+    "fr": "avant"
+  },
+  {
+    "en": "goodnight",
+    "fr": "bonne nuit"
+  },
+  {
+    "en": "pretty",
+    "fr": "jolie"
+  },
+  {
+    "en": "salut",
+    "fr": "hello"
+  },
+  {
+    "en": "see you",
+    "fr": "à plus"
+  },
+  {
+    "en": "see you soon",
+    "fr": "à bientôt"
+  },
+  {
+    "en": "shy",
+    "fr": "timide"
+  },
+  {
     "en": "today",
     "fr": "aujourd'hui"
   },
@@ -318,5 +442,381 @@
   {
     "en": "yesterday",
     "fr": "hier"
+  },
+  {
+    "en": "0",
+    "fr": "zéro"
+  },
+  {
+    "en": "1",
+    "fr": "un"
+  },
+  {
+    "en": "2",
+    "fr": "deux"
+  },
+  {
+    "en": "3",
+    "fr": "trois"
+  },
+  {
+    "en": "4",
+    "fr": "quatre"
+  },
+  {
+    "en": "5",
+    "fr": "cinq"
+  },
+  {
+    "en": "6",
+    "fr": "six"
+  },
+  {
+    "en": "7",
+    "fr": "sept"
+  },
+  {
+    "en": "8",
+    "fr": "huit"
+  },
+  {
+    "en": "9",
+    "fr": "neuf"
+  },
+  {
+    "en": "10",
+    "fr": "dix"
+  },
+  {
+    "en": "11",
+    "fr": "onze"
+  },
+  {
+    "en": "12",
+    "fr": "douze"
+  },
+  {
+    "en": "13",
+    "fr": "treize"
+  },
+  {
+    "en": "14",
+    "fr": "quatorze"
+  },
+  {
+    "en": "15",
+    "fr": "quinze"
+  },
+  {
+    "en": "16",
+    "fr": "seize"
+  },
+  {
+    "en": "17",
+    "fr": "dix-sept"
+  },
+  {
+    "en": "18",
+    "fr": "dix-huit"
+  },
+  {
+    "en": "19",
+    "fr": "dix-neuf"
+  },
+  {
+    "en": "20",
+    "fr": "vingt"
+  },
+  {
+    "en": "21",
+    "fr": "vingt et un"
+  },
+  {
+    "en": "22",
+    "fr": "vingt-deux"
+  },
+  {
+    "en": "23",
+    "fr": "vingt-trois"
+  },
+  {
+    "en": "24",
+    "fr": "vingt-quatre"
+  },
+  {
+    "en": "25",
+    "fr": "vingt-cinq"
+  },
+  {
+    "en": "26",
+    "fr": "vingt-six"
+  },
+  {
+    "en": "27",
+    "fr": "vingt-sept"
+  },
+  {
+    "en": "28",
+    "fr": "vingt-huit"
+  },
+  {
+    "en": "29",
+    "fr": "vingt-neuf"
+  },
+  {
+    "en": "30",
+    "fr": "trente"
+  },
+  {
+    "en": "31",
+    "fr": "trente et un"
+  },
+  {
+    "en": "32",
+    "fr": "trente-deux"
+  },
+  {
+    "en": "33",
+    "fr": "trente-trois"
+  },
+  {
+    "en": "44",
+    "fr": "quarante-quatre"
+  },
+  {
+    "en": "45",
+    "fr": "quarante-cinq"
+  },
+  {
+    "en": "46",
+    "fr": "quarante-six"
+  },
+  {
+    "en": "57",
+    "fr": "cinquante-sept"
+  },
+  {
+    "en": "58",
+    "fr": "cinquante-huit"
+  },
+  {
+    "en": "59",
+    "fr": "cinquante-neuf"
+  },
+  {
+    "en": "60",
+    "fr": "soixante"
+  },
+  {
+    "en": "61",
+    "fr": "soixante et un"
+  },
+  {
+    "en": "63",
+    "fr": "soixante-trois"
+  },
+  {
+    "en": "65",
+    "fr": "soixante-cinq"
+  },
+  {
+    "en": "68",
+    "fr": "soixante-huit"
+  },
+  {
+    "en": "69",
+    "fr": "soixante-neuf"
+  },
+  {
+    "en": "70",
+    "fr": "soixante-dix"
+  },
+  {
+    "en": "71",
+    "fr": "soixante et onze"
+  },
+  {
+    "en": "72",
+    "fr": "soixante-douze"
+  },
+  {
+    "en": "73",
+    "fr": "soixante-treize"
+  },
+  {
+    "en": "74",
+    "fr": "soixante-quatorze"
+  },
+  {
+    "en": "75",
+    "fr": "soixante-quinze"
+  },
+  {
+    "en": "76",
+    "fr": "soixante-seize"
+  },
+  {
+    "en": "77",
+    "fr": "soixante-dix-sept"
+  },
+  {
+    "en": "78",
+    "fr": "soixante-dix-huit"
+  },
+  {
+    "en": "79",
+    "fr": "soixante-dix-neuf"
+  },
+  {
+    "en": "80",
+    "fr": "quatre-vingts"
+  },
+  {
+    "en": "81",
+    "fr": "quatre-vingt-un"
+  },
+  {
+    "en": "82",
+    "fr": "quatre-vingt-deux"
+  },
+  {
+    "en": "83",
+    "fr": "quatre-vingt-trois"
+  },
+  {
+    "en": "84",
+    "fr": "quatre-vingt-quatre"
+  },
+  {
+    "en": "85",
+    "fr": "quatre-vingt-cinq"
+  },
+  {
+    "en": "86",
+    "fr": "quatre-vingt-six"
+  },
+  {
+    "en": "87",
+    "fr": "quatre-vingt-sept"
+  },
+  {
+    "en": "88",
+    "fr": "quatre-vingt-huit"
+  },
+  {
+    "en": "89",
+    "fr": "quatre-vingt-neuf"
+  },
+  {
+    "en": "90",
+    "fr": "quatre-vingt-dix"
+  },
+  {
+    "en": "91",
+    "fr": "quatre-vingt-onze"
+  },
+  {
+    "en": "92",
+    "fr": "quatre-vingt-douze"
+  },
+  {
+    "en": "93",
+    "fr": "quatre-vingt-treize"
+  },
+  {
+    "en": "94",
+    "fr": "quatre-vingt-quatorze"
+  },
+  {
+    "en": "95",
+    "fr": "quatre-vingt-quinze"
+  },
+  {
+    "en": "96",
+    "fr": "quatre-vingt-seize"
+  },
+  {
+    "en": "97",
+    "fr": "quatre-vingt-dix-sept"
+  },
+  {
+    "en": "98",
+    "fr": "quatre-vingt-dix-huit"
+  },
+  {
+    "en": "99",
+    "fr": "quatre-vingt-dix-neuf"
+  },
+  {
+    "en": "100",
+    "fr": "cent"
+  },
+  {
+    "en": "to be",
+    "fr": "être"
+  },
+  {
+    "en": "I am",
+    "fr": "je suis"
+  },
+  {
+    "en": "you are",
+    "fr": "tu es"
+  },
+  {
+    "en": "he is",
+    "fr": "il est"
+  },
+  {
+    "en": "she is",
+    "fr": "elle est"
+  },
+  {
+    "en": "we are",
+    "fr": "nous sommes"
+  },
+  {
+    "en": "you are (p/f)",
+    "fr": "vous êtes"
+  },
+  {
+    "en": "they are (m)",
+    "fr": "ils sont"
+  },
+  {
+    "en": "they are (f)",
+    "fr": "elles sont"
+  },
+  {
+    "en": "I am not",
+    "fr": "je ne suis pas"
+  },
+  {
+    "en": "you are not",
+    "fr": "tu n'es pas"
+  },
+  {
+    "en": "he is not",
+    "fr": "il n'est pas"
+  },
+  {
+    "en": "she is not",
+    "fr": "elle n'est pas"
+  },
+  {
+    "en": "we are not",
+    "fr": "nous ne sommes pas"
+  },
+  {
+    "en": "you are not",
+    "fr": "vous n'êtes pas"
+  },
+  {
+    "en": "they are not (m)",
+    "fr": "ils ne sont pas"
+  },
+  {
+    "en": "they are not (f)",
+    "fr": "elles ne sont pas"
   }
 ]

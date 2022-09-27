@@ -25,7 +25,10 @@ export default defineComponent({
   },
   methods: {
     checkAnswer() {
-      if (this.answer == this.question[this.answerLang]) {
+      let correctAnswer = this.question[this.answerLang].toLocaleLowerCase();
+      let guess = this.answer.toLocaleLowerCase();
+
+      if (guess === correctAnswer) {
         this.score.yes += 1;
         this.pickCard();
       }
