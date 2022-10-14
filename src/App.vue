@@ -38,6 +38,12 @@ export default defineComponent({
       this.score.no += 1;
       setTimeout(() => this.pickCard(), 2_000);
     },
+    speakAnswer() {
+      let utterance = new SpeechSynthesisUtterance(this.question["fr"]);
+      utterance.lang = "fr-FR";
+      //utterance.pitch = 0.9;
+      speechSynthesis.speak(utterance);
+    },
     pickCard() {
       this.answer = "";
       this.question = this.cards[Math.floor(Math.random() * this.cards.length)];
@@ -60,16 +66,8 @@ export default defineComponent({
         <span class="text-red-500 text-lg inline-block mr-3">
           {{ score.no }}
         </span>
-        <input
-          autofocus
-          class="border p-2 rounded"
-          ref="answer"
-          tabindex="0"
-          type="text"
-          v-model.trim="answer"
-          v-on:keyup.esc="showAnswer"
-          v-on:keyup.enter="checkAnswer"
-        />
+        <input autofocus class="border p-2 rounded" ref="answer" tabindex="0" type="text" v-model.trim="answer"
+          v-on:keyup.esc.exact="showAnswer" v-on:keyup.enter.exact="checkAnswer" v-on:keyup.shift.enter="speakAnswer" />
         <span class="text-green-500 text-lg inline-block ml-3">
           {{ score.yes }}
         </span>

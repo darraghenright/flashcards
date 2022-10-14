@@ -1,5 +1,41 @@
 [
   {
+    "en": "turn left",
+    "fr": "tournez á gauche"
+  },
+  {
+    "en": "turn right",
+    "fr": "tournez á droite"
+  },
+  {
+    "en": "go straight",
+    "fr": "continuez tout droit"
+  },
+  {
+    "en": "take the first left",
+    "fr": "prenez la première à gauche"
+  },
+  {
+    "en": "take the first right",
+    "fr": "prenez la première à droite"
+  },
+  {
+    "en": "take the second left",
+    "fr": "prenez la deuxiéme à gauche"
+  },
+  {
+    "en": "take the second right",
+    "fr": "prenez la deuxiéme à droite"
+  },
+  {
+    "en": "cross the street",
+    "fr": "traversez la rue"
+  },
+  {
+    "en": "pass by",
+    "fr": "passez devant"
+  },
+  {
     "en": "a bed",
     "fr": "un lit"
   },
@@ -288,6 +324,54 @@
     "fr": "l'année"
   },
   {
+    "en": "january",
+    "fr": "janvier"
+  },
+  {
+    "en": "february",
+    "fr": "février"
+  },
+  {
+    "en": "march",
+    "fr": "mars"
+  },
+  {
+    "en": "april",
+    "fr": "avril"
+  },
+  {
+    "en": "may",
+    "fr": "mai"
+  },
+  {
+    "en": "june",
+    "fr": "juin"
+  },
+  {
+    "en": "july",
+    "fr": "juillet"
+  },
+  {
+    "en": "august",
+    "fr": "août"
+  },
+  {
+    "en": "september",
+    "fr": "septembre"
+  },
+  {
+    "en": "october",
+    "fr": "octobre"
+  },
+  {
+    "en": "november",
+    "fr": "novembre"
+  },
+  {
+    "en": "december",
+    "fr": "décembre"
+  },
+  {
     "en": "to have",
     "fr": "avoir"
   },
@@ -296,7 +380,7 @@
     "fr": "j'ai"
   },
   {
-    "en": "you have (p/f)",
+    "en": "you have",
     "fr": "tu as"
   },
   {
@@ -328,7 +412,7 @@
     "fr": "j'ai"
   },
   {
-    "en": "you do not have (p/f)",
+    "en": "you do not have",
     "fr": "tu n'as pas"
   },
   {
@@ -442,6 +526,38 @@
   {
     "en": "yesterday",
     "fr": "hier"
+  },
+  {
+    "en": "here is",
+    "fr": "voici"
+  },
+  {
+    "en": "I introduce you",
+    "fr": "je vous présente"
+  },
+  {
+    "en": "I work",
+    "fr": "je travaille"
+  },
+  {
+    "en": "I'm from Cork",
+    "fr": "je viens de Cork"
+  },
+  {
+    "en": "puis",
+    "fr": "then"
+  },
+  {
+    "en": "now",
+    "fr": "maintenant"
+  },
+  {
+    "en": "until",
+    "fr": "jusqu'à"
+  },
+  {
+    "en": "ici",
+    "fr": "here"
   },
   {
     "en": "0",
@@ -808,7 +924,7 @@
     "fr": "nous ne sommes pas"
   },
   {
-    "en": "you are not",
+    "en": "you are not (p/f)",
     "fr": "vous n'êtes pas"
   },
   {
